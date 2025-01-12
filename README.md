@@ -57,7 +57,8 @@ To use the trained model for exoplanet detection:
 
 ## Results
 
-Our experiments show promising results in exoplanet detection using machine learning models. The selected model achieves [insert performance metrics], demonstrating its efficacy in identifying exoplanets from stellar brightness time series data.
+Our experiments show promising results in exoplanet detection using machine learning models. The selected model achieves 99% macro f1-score and high precision
+recall metrics, demonstrating its efficacy in identifying exoplanets from stellar brightness time series data.
 
 ## Future Work
 
